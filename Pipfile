@@ -9,6 +9,7 @@ plotly = "*"
 scikit-learn = "*"
 numpy = "*"
 dvc = "*"
+fastparquet = "*"
 
 [dev-packages]
 ipykernel = "*"
