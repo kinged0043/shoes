@@ -10,6 +10,8 @@ scikit-learn = "*"
 numpy = "*"
 dvc = "*"
 fastparquet = "*"
+nbformat = "==4.2.0"
+ipykernel = "*"
 
 [dev-packages]
 ipykernel = "*"
