@@ -11,11 +11,11 @@ there are two of the datasets
 - one dirty(for the purpose of practice)
 
 objectives for this project `19th july 2024`
-- [] import and clean data with pandas
-- [] save dataset with dvc
-- [] extract features with sklearn
-- [] save extracted features using feast
-- [] perform some statistical analysis and plots with pandas and plotly
-- [] train model using shallow algorithm
-- [] track and register model with mlflow
-- [] 
+- [ ] import and clean data with pandas
+- [ ] save dataset with dvc
+- [ ] extract features with sklearn
+- [ ] save extracted features using feast
+- [ ] perform some statistical analysis and plots with pandas and plotly
+- [ ] train model using shallow algorithm
+- [ ] track and register model with mlflow
+- [ ] 
