@@ -1,0 +1,5 @@
+outs:
+- md5: bb92073e2a3086840c213aec127c7fdb
+  size: 724760
+  hash: md5
+  path: shoes_clean.csv
