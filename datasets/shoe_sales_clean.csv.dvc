@@ -1,0 +1,6 @@
+outs:
+- md5: d8e29e614e077ae4d6521616c379337b
+  size: 679750
+  isexec: true
+  hash: md5
+  path: shoe_sales_clean.csv
