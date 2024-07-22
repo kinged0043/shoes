@@ -22,3 +22,4 @@ objectives for this project `19th july 2024`
 - [ ] perform some statistical analysis and plots with pandas and plotly
 - [ ] train model using shallow algorithm
 - [ ] track and register model with mlflow 
+- [ ] build docker file for reproducability
