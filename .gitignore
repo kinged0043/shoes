@@ -6,6 +6,9 @@ __pycache__/
 # notebook csv and parquet files
 notebooks/*.csv
 
+# tmp file for remote storing of datasets
+/tmp
+
 # C extensions
 *.so
 

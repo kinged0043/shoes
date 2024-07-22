@@ -16,7 +16,7 @@ there are two of the datasets
 objectives for this project `19th july 2024`
 - [x] import and clean data with pandas
 - [x] save dataset with dvc
-- [ ] create dvc pipeline for running workflow
+- [x] create dvc pipeline for running workflow
 - [ ] extract features with sklearn
 - [ ] save extracted features using feast
 - [ ] perform some statistical analysis and plots with pandas and plotly
