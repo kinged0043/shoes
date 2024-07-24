@@ -25,5 +25,3 @@ objectives for this project `19th july 2024`
 - [ ] build docker file for reproducability
 
 ![shoe plan](shoe_plan.png)
-
-https://mega.nz/folder/kIYSCCiD#Y-ASVhH6JaA5UFhn4800jA
