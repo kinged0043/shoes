@@ -23,3 +23,5 @@ objectives for this project `19th july 2024`
 - [ ] train model using shallow algorithm
 - [ ] track and register model with mlflow 
 - [ ] build docker file for reproducability
+
+![shoe plan](shoe_plan.png)
