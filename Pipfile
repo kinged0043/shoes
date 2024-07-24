@@ -12,6 +12,9 @@ dvc = "*"
 fastparquet = "*"
 nbformat = "==4.2.0"
 ipykernel = "*"
+scrapy = "*"
+mlflow = "*"
+lazypredict = "*"
 
 [dev-packages]
 ipykernel = "*"
