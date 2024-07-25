@@ -14,7 +14,7 @@ sales_source = FileSource(
     created_timestamp_column=""
 )
 
-shoes_fv = FeatureView(name="",
+shoes_fv = FeatureView(name="shoes_FV",
                        source=sales_source,
                        entities=sales,
                        schema=[Field(name="", dtype=Float32, ),
