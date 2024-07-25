@@ -1,4 +1,0 @@
-[core]
-    remote = mylocal
-['remote "mylocal"']
-    url = ../tmp/dvc
